@@ -1,0 +1,13 @@
+Assignment for week 1 lecture 1:
+
+Pick 5 unrelated "things" that exist in your world that you know very well (ie: horses, cars, sports)
+
+Create a javascript object for each of them, adding attributes that seem like would be relevant to them (people have "names")
+
+Create 4 more examples of each of them, with different data in them (person "john", person "jim", person "joe")
+
+For each of these 5 unrelated things, create one more type of object that is "related" or in that same conceptual sphere, and 
+make one example of this
+
+Bonus
+Make 3 more examples of each of these unrelated things, and use ID as an identifier to refer to the related item
