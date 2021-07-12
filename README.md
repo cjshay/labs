@@ -2,11 +2,15 @@
 
 ### Lecture 1
 
-## link to javascript from lecture
+## link to javascript assignment
+
+https://github.com/cjshay/labs/blob/main/lectures/week-2/lecture-1/assignment.txt
+
+## link to javascript from lecture 
 
 https://github.com/cjshay/labs/blob/main/lectures/week-2/lecture-1/schemas.js
 
-## link to google doc from concept lecture
+## link to assignment / google doc from concept lecture
 
 https://docs.google.com/document/d/1OGi5wTtHI-YkjYpV9IS84wedmM61Rg6_N8j0QOnAzGQ/edit?usp=sharing
 
@@ -22,6 +26,10 @@ https://sourcedigital.sharepoint.com/sites/labs2/Shared%20Documents/General/Reco
 
 ### Lecture 1
 
+## link to javascript assignment
+
+https://github.com/cjshay/labs/blob/main/lectures/week-1/lecture-1/assignment.txt
+
 ## link to javascript from lecture
 
 https://github.com/cjshay/labs/blob/main/lectures/week-1/lecture-1/models.js
@@ -30,7 +38,7 @@ https://github.com/cjshay/labs/blob/main/lectures/week-1/lecture-1/models.js
 
 https://github.com/cjshay/labs/blob/main/lectures/week-1/lecture-1/assignment.txt
 
-## link to google doc from concept lecture
+## link to assignment / google doc from concept lecture
 
 https://docs.google.com/document/d/1sAT4wLyPIFqk_UJmCxyFJ5E4Ix-4wwLWQc4OHf_OvwA/edit
 
