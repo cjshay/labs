@@ -1,0 +1,23 @@
+Choose one of the "things" you made from our first assignment (or one of the "things" 
+that I created in our lecture (person / dog / cat /etc)). Do not choose a car 
+
+Create 3 different examples of schemas for that "thing" and for each, describe how they are different.
+ie: less attributes / same data but the key is named differently / missing data etc 
+
+Create a "model" / "ideal" schema, that is going to be your regular schema that you want after all of these 
+are transformed.
+
+Using dot syntax for changing attributes, change each of these objects manually into the "model" / "ideal" schema,
+and console.log each before and after result.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors
+
+Reading: 
+ETL
+https://en.wikipedia.org/wiki/Extract,_transform,_load
+
+Bonus: Use the function I built to dynamically change all of your objects, instead of just manually changing them
+
+Double Bonus: Describe in a txt file:
+Apply your thing or choose a new thing to apply real life app example (Enterprise and Budget data coming from 
+different sources to be shown in Kayak).
+
