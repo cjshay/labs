@@ -92,18 +92,14 @@ const car1ToNormalizedCar = {
 
 
 const normalizeCar = (car, normalizer) => {
-
-
     const carAttributes = Object.keys(car)
-
     const normalizedCar = {}
 
     for (let i = 0; i < carAttributes.length; i++) {
-        const normalizedKey = normalizer[carAttributes[i]]
+        const currentAttribute = carAttributes[i]
+        const normalizedKey = normalizer[currentAttribute]
         const normalizedValue = car[carAttributes[i]]
-            normalizedCar[normalizedKey] = normalizedValue
-            // if (i === 0) console.log('car[carAttributes[i]]', car[carAttributes[i]])
-            // if (i === 0)  console.log('normalizedCar', normalizedCar)
+        normalizedCar[normalizedKey] = normalizedValue
     }
 
     return normalizedCar
