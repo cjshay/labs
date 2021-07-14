@@ -1,0 +1,87 @@
+Your assignment is to make a resource other than a library, and create a list of items 
+within it (no need for relations).
+
+
+Note: please test your code using console.log's so I can run the file and check (and for yourself)
+Note: check out the debugging resources below
+
+- pick an item, it can be anything: (planes trains auto (anything))
+- make a schema for it
+- list several of them like I have (in a javascript array)
+
+add this list to the same four files as I have 
+create.js
+update.js
+delete.js
+read.js
+
+READ
+use the code that i have to build your read functions
+
+- for the whole list 
+- for a find by ([insert attribute here] attribute) 
+ie: find book by title
+- for another find by ([insert attribute here] attribute
+
+[difficulty: medium] BONUS: make a function that can find by any attribute that you pass in as an argument
+
+[difficulty: hard] Double bonus: make a function that can search for all the items that have either of two attributes
+ie: find any books that have category "russian" or that are length "long"
+
+CREATE 
+use the code that i have to build your create functions
+
+add a record to your collection
+
+[difficulty: medium] BONUS: allow bulk updates
+ie: pass me several records and I will add them all
+resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+
+[difficulty: hard] Add validations for your required schema attributes
+ie: do NOT add this book if it doesn't have a title 
+ie: do NOT add this book if it's in the category "old"
+
+DELETE 
+use the code that i have to build your delete functions
+
+delete a record to your collection
+
+[difficulty: hard] BONUS: only delete ONE record, not all for a particular book title
+ie: I delete only 1 copy of harry potter (we need this function if someone buys/rents a copy)
+
+Resources:
+-------
+
+debugging javascript:
+we'll probably have a lecture on this, or [find article - TBD]
+
+stack trace - find the line where it's failing
+read the error - the part at the top that reads like english
+    write down each term and look up words you don't know
+    copy that and paste into google
+
+-------
+
+type these into google WITHOUT the mdn code word and you'll get resources like "w3 schools" that may be a bit
+easier to read: getting familiar with Docs (like mdn) is important though, these exist for all technologies in coding
+
+for loop - mdn - javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+
+push operation on an array - mdn - javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+
+concat operation on an array - mdn - javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+
+NOT operator + others 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
+
+(in every interview they ask the difference between strict and non-strict tldr: use strict)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality
+
+functional programming:
+https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b
