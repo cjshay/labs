@@ -83,5 +83,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Stri
 (in every interview they ask the difference between strict and non-strict tldr: use strict)
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality
 
+Reading:
 functional programming:
 https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b

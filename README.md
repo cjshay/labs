@@ -1,5 +1,27 @@
 ## Week 2
 
+
+### Lecture 2
+
+#### link to javascript assignment
+
+https://github.com/cjshay/labs/blob/main/lectures/week-2/lecture-2/assignment.txt
+
+#### link to javascript from lecture 
+
+https://github.com/cjshay/labs/blob/main/lectures/week-2/lecture-2/create.js
+https://github.com/cjshay/labs/blob/main/lectures/week-2/lecture-2/read.js
+https://github.com/cjshay/labs/blob/main/lectures/week-2/lecture-2/delete.js
+
+
+#### link to assignment / google doc from concept lecture
+
+https://docs.google.com/document/d/1bMS5-CKnAgdIoC7LuVPzxN9XYhM1K8YNelMb32YsIQ0/edit?usp=sharing
+
+#### link to lecture recording (once you have access)
+
+https://sourcedigital.sharepoint.com/sites/labs2/Shared%20Documents/General/Recordings/Labs%20Lecture-20210714_123932-Meeting%20Recording.mp4?web=1
+
 ### Lecture 1
 
 #### link to javascript assignment
