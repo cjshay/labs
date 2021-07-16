@@ -47,12 +47,12 @@ const person = {
     weight: 'blah'
 }
 
-const dog = {
-    id: 1,
-    name: 'otis',
-    ownerID: 1,
-    ownerName: 'Chris'
-}
+// const dog = {
+//     id: 1,
+//     name: 'otis',
+//     ownerID: 1,
+//     ownerName: 'Chris'
+// }
 
 const cat = {
     id: 10,
@@ -71,20 +71,20 @@ const thing = {
 }
 
 
-console.log('car', car)
-console.log('post', post)
-console.log('person', person)
-console.log('cat', cat)
-console.log('thing', thing)
+// console.log('car', car)
+// console.log('post', post)
+// console.log('person', person)
+// console.log('cat', cat)
+// console.log('thing', thing)
 
-function showCar(car) {
-    console.log('car', car)
-}
+// function showCar(car) {
+//     console.log('car', car)
+// }
 
-function showThing(thing) {
-    console.log('thing', thing)
-}
+// function showThing(thing) {
+//     console.log('thing', thing)
+// }
 
-console.log('showCar', showCar(car))
-console.log('showThing', showThing(car))
-console.log('showThing', showThing(cat))
+// console.log('showCar', showCar(car))
+// console.log('showThing', showThing(car))
+// console.log('showThing', showThing(cat))
