@@ -1,7 +1,12 @@
 ## Week 2
 
 
-### Lecture 3
+### lecture 3 
+
+
+#### link to asana project
+
+https://app.asana.com/0/portfolio/1200579747258688/list
 
 #### link to lecture recording
 
@@ -79,7 +84,3 @@ https://sourcedigital.sharepoint.com/sites/labs2/Shared%20Documents/General/Reco
 #### link to javascript docs
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-#### link to asana portfolio to see learning/projects tasks (learning tasks are vue mastery courses and project tasks are assignments)
-
-https://app.asana.com/0/portfolio/1200579747258688/list
