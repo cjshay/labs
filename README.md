@@ -1,12 +1,10 @@
-## Week 2
-
-
-### lecture 3 
-
-
 #### link to asana project
 
 https://app.asana.com/0/portfolio/1200579747258688/list
+
+## Week 2
+
+### lecture 3 
 
 #### link to lecture recording
 
